@@ -1,7 +1,7 @@
 # In-Class Group Activity 4: Managing Concurrency Using Scala Futures
 
 ## Group Information
-- **Group Members:** Tucker M. (Ttmoose), B. Hansen (Bhansen9) <!-- Update/add group member names as needed -->
+- **Group Members:** Tuker M. (Ttmoose), B. Hansen (Bhansen9) <!-- Update/add group member names as needed -->
 - **Repository URL:** [https://github.com/Bhansen9/In-Class-Group-Activity-4-Concurrency](https://github.com/Bhansen9/In-Class-Group-Activity-4-Concurrency)
 
 ---
