@@ -1,5 +1,16 @@
 ## Group Activity on Concurrency using Scala Futures
 
+### Group Members
+- Tucker M. (Ttmoose)
+- B. Hansen (Bhansen9)
+<!-- Group members who actively participated in the activity -->
+
+### Documentation and Findings
+Detailed answers to all activity questions, type analysis, `curl` tests, and reflections on concurrency are documented in:
+👉 **[FINDINGS.md](FINDINGS.md)**
+
+---
+
 In this group activity, we'll experiment with Scala futures. 
 
 The `WebServiceClient` is a small wrapper for creating a number of concurrent web requests and observing progress from the client's perspective.   
